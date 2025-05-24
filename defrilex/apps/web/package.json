@@ -10,9 +10,6 @@
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
-    "@defrilex/config": "workspace:*",
-    "@defrilex/types": "workspace:*",
-    "@defrilex/utils": "workspace:*",
     "next": "14.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -52,8 +49,6 @@
     "react-syntax-highlighter": "^15.5.0"
   },
   "devDependencies": {
-    "@defrilex/eslint-config": "workspace:*",
-    "@defrilex/tsconfig": "workspace:*",
     "@types/node": "^20.0.0",
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.0",
